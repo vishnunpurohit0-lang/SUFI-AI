@@ -1,6 +1,6 @@
 # Sufi — AI Voice Assistant
 
-Sufi is a personal, offline-capable AI voice assistant built in Python. It listens for voice input, transcribes it locally using Whisper, sends it to an LLM for a response, and speaks the reply back — with support for system commands, memory, and a customizable identity/name.
+Sufi is a personal, AI voice assistant built in Python. It listens for voice input, transcribes it locally using Whisper, sends it to an LLM for a response, and speaks the reply back — with support for system commands, memory, and a customizable identity/name.
 
 > ⚠️ This project was previously named **Jarvis** during development. Some internal references may still use that name.
 
